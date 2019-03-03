@@ -1,1 +1,1 @@
-对常用的javascript设计模式进行学习`总结
+对常用的javascript设计模式进行学习and总结
